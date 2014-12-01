@@ -16,7 +16,7 @@ You need git to clone the angular-seed repository.
 The app uses node.js to initialize and compile the seed, you must have node.js and
 its package manager (npm) installed.
 
-### Clone the repository into a directory
+### Clone the repository into your working directory
 
 ```bash
 git --depth=1 clone https://github.com/adamclark-dev/angular-gulp-seed.git .
