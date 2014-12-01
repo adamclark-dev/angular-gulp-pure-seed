@@ -1,0 +1,36 @@
+{
+    "name": "Angular-gulp-Seed",
+    "version": "0.0.0",
+    "main": "app.js",
+    "description": "Angular gulp seed",
+    "dependencies": {
+        "angular-animate": "^1.3.0",
+        "async": "^0.9.0",
+        "gulp": "^3.8.9",
+        "gulp-angular-templatecache": "^1.4.2",
+        "gulp-clean": "^0.3.1",
+        "gulp-concat": "^2.4.1",
+        "gulp-connect": "^1.1.1",
+        "gulp-filter": "^1.0.2",
+        "gulp-minify-css": "^0.3.11",
+        "gulp-plumber": "^0.6.6",
+        "gulp-ruby-sass": "^0.7.1",
+        "gulp-uglify": "^1.0.1",
+        "gulp-util": "^2.2.20",
+        "main-bower-files": "^2.1.0",
+        "gulp-ng-annotate":"^0.3.5"
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/adamclark-dev/angular-gulp-seed.git"
+    },
+    "author": "Adam Clark",
+    "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/adamclark-dev/angular-gulp-seed/issues"
+    },
+    "homepage": "https://github.com/adizio/crm",
+    "scripts": {
+        "postinstall": "bower install"
+    }
+}
