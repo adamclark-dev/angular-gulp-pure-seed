@@ -3,7 +3,7 @@ angular-gulp-seed
 
 This repository is designed to provide a seed application to give a headstart when building an Angular application.
 
-The app is at a bare bones stage and has example modules from the pure framework installed to give you and idea of the layout and how to get started.
+The app is at a bare bones stage and has example modules from the pure framework installed to give you an idea of the layout and how to get started.
 
 ## Installation 
 
@@ -34,3 +34,18 @@ This application is built around node and bower. NPM has been configured to inst
 ```
 npm install
 ```
+
+### Usage
+
+To run the application, type
+
+```
+Gulp
+```
+This will build the build directory, you will need to point your web server to this directory.
+
+### Installed Components
+
+- Restangular (Provides restful api requests)
+- Toaster (Growl style messages)
+- UI Router (Angular Routing Provider)
