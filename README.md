@@ -5,6 +5,8 @@ This repository is designed to provide a seed application to give a headstart wh
 
 The app is at a bare bones stage and has example modules from the pure framework installed to give you an idea of the layout and how to get started.
 
+[Demo Site](http://178.62.26.101/)
+
 ## Installation 
 
 ### Prerequisites
