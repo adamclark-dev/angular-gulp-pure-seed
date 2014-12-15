@@ -1,4 +1,4 @@
-angular-gulp-seed
+Angular Gulp Seed
 =================
 
 This repository is designed to provide a seed application to give a headstart when building an Angular application.
