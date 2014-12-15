@@ -51,3 +51,7 @@ This will build the build directory, you will need to point your web server to t
 - Restangular (Provides restful api requests)
 - Toaster (Growl style messages)
 - UI Router (Angular Routing Provider)
+
+## License
+
+This package is licensed under the [BSD 3-Clause license](http://opensource.org/licenses/BSD-3-Clause).
